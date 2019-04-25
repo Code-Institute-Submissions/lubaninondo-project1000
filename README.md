@@ -1,10 +1,13 @@
 Project 1
+
 This is the website of the musical band The Monkees who have been in the business of entertaining people for over 50 years.  The website provides a sample of the pictures from their live performances and cover albums. Also, in the website is a sample of the audio music and video. A contact form for easy contact is also available in the website.
 
 UX
+
 The website is meant mainly for the band and fans of the musical group. They can view samples of their photos, videos, music and even hire the band. The user can easily click under each page to view what they want to see. Under the home page the user can easily why the band is still the dominating force in the industry. The home page also provides the general band information to the clients.
 Under the headline photos the user has a chance to view photos of the group over the years. The images provided are from various cover photos for their albums. Also, the images that the viewer can see include from their live performances.
 The user can also access a sample of their music by clicking on the audios link. One can a feel of The Monkees music. By clicking on the videos one can easily get a sample of a video from the group. When one has request or a question group another easier way to contact them is by filling a contact form in the contacts page. All these pages are easily accessible at any point in the website.
+
 Features
 Existing Features
 Different pages- This allows for easy accessibility of information. At any point one can go to the navigation bar and click the page she wants to access.
