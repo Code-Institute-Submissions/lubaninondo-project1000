@@ -15,29 +15,43 @@ The user can also access a sample of their music by clicking on the audios link.
 Different pages- This allows for easy accessibility of information. At any point one can go to the navigation bar and click the page she wants to access.
 
 Simple- The website is a simple website, easy to navigate and user friendly.
+
 Home page-By clicking on the home page one gets general information about the band
+
 Videos- By clicking on the videos one gets to view a video from the band
+
 Audios- By clicking on the audios one can listen to a sample of the music by the band
+
 Photos- If the uses clicks, on photos he can view the images of the group.
+
 Contacts- By clicking and filling the request form one can easily send a message to the group.
 
 ##Features left to Implement
+
 Coming tours- should gives a list of musical shows that will be played by the band in the next few months
+
 Lists of Songs- Should displays a list of all songs by the band arranged per album
 
 ##Technologies Used
 
 ###Fontawesome  - https://fontawesome.com/v4.7.0/icons/ were used to get icons to be used in the website
+
 ###Bootstrap  - https://getbootstrap.com/  was also used in the framework of the website
+
 ###HTML- was the language used to develop the website
+
 ###CSS- was used to style the website
 
 ##Testing
 
 Submitting a request: Go to contacts. Fill the form. Skipping any section will result in the form failing to submit an error message appearing requesting to complete the section.
+
 Video: Go to video and played the video using controls such as play, pause and stop and expanding the video.
+
 Audios: Go to audio and play the audio using controls such as play, pause and stop.
+
 Photos: Go to click photos and view the photos
+
 Home: Click the home or logo anytime. It takes you to home page.
 
 ##Deploying
