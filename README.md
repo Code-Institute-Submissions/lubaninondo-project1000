@@ -9,8 +9,11 @@ Under the headline photos the user has a chance to view photos of the group over
 The user can also access a sample of their music by clicking on the audios link. One can a feel of The Monkees music. By clicking on the videos one can easily get a sample of a video from the group. When one has request or a question group another easier way to contact them is by filling a contact form in the contacts page. All these pages are easily accessible at any point in the website.
 
 ##Features
+
 ##Existing Features
+
 Different pages- This allows for easy accessibility of information. At any point one can go to the navigation bar and click the page she wants to access.
+
 Simple- The website is a simple website, easy to navigate and user friendly.
 Home page-By clicking on the home page one gets general information about the band
 Videos- By clicking on the videos one gets to view a video from the band
@@ -23,12 +26,14 @@ Coming tours- should gives a list of musical shows that will be played by the ba
 Lists of Songs- Should displays a list of all songs by the band arranged per album
 
 ##Technologies Used
+
 ###Fontawesome  - https://fontawesome.com/v4.7.0/icons/ were used to get icons to be used in the website
 ###Bootstrap  - https://getbootstrap.com/  was also used in the framework of the website
 ###HTML- was the language used to develop the website
 ###CSS- was used to style the website
 
 ##Testing
+
 Submitting a request: Go to contacts. Fill the form. Skipping any section will result in the form failing to submit an error message appearing requesting to complete the section.
 Video: Go to video and played the video using controls such as play, pause and stop and expanding the video.
 Audios: Go to audio and play the audio using controls such as play, pause and stop.
@@ -36,10 +41,12 @@ Photos: Go to click photos and view the photos
 Home: Click the home or logo anytime. It takes you to home page.
 
 ##Deploying
+
 The website has been deployed to https://github.com/lubaninondo/project1/
 
 ##Credits
+
 ###Media
-The photos, videos and images of this website are from code institute
+The photos, videos and images of this website are from code institute https://github.com/Code-Institute-Org/project-assets
 
 
