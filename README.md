@@ -66,6 +66,7 @@ The website has been deployed to [Github](https://github.com/lubaninondo/project
 
 This project was inspired by [Code Institute](https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4/tree/master/18-resume-for-download)
 
+Band Info is from [Wikipidea](https://en.wikipedia.org/wiki/The_Monkees)
 
 ### Media
 The photos, videos and audios of this website are from [Code Institute](https://github.com/Code-Institute-Org/project-assets)
