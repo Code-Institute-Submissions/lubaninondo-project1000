@@ -34,13 +34,17 @@ Lists of Songs- Should displays a list of all songs by the band arranged per alb
 
 ## Technologies Used
 
-### Fontawesome  - https://fontawesome.com/v4.7.0/icons/ were used to get icons to be used in the website
+### [Fontawesome](https://fontawesome.com/v4.7.0/icons/) 
+was used to get icons to be used in the website
 
-### Bootstrap  - https://getbootstrap.com/  was also used in the framework of the website
+### [Bootstrap](https://getbootstrap.com/)
+was also used in the framework of the website
 
-### HTML- was the language used to develop the website
+### [HTML](https://www.w3schools.com/html/)
+was the language used to develop the website
 
-### CSS- was used to style the website
+### [CSS](https://www.w3schools.com/css/)
+was used to style the website
 
 ## Testing
 
@@ -56,7 +60,7 @@ Home: Click the home or logo anytime. It takes you to home page.
 
 ## Deploying
 
-The website has been deployed to https://github.com/lubaninondo/project1/
+The website has been deployed to [Github](https://github.com/lubaninondo/project1/) and the site is published at [Github](https://lubaninondo.github.io/project1/)
 
 ## Credits
 
@@ -64,6 +68,6 @@ This project was inspired by [Code Institute](https://github.com/Code-Institute-
 
 
 ### Media
-The photos, videos and images of this website are from code institute https://github.com/Code-Institute-Org/project-assets
+The photos, videos and audios of this website are from [Code Institute](https://github.com/Code-Institute-Org/project-assets)
 
 
