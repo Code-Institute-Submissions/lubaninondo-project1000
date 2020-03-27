@@ -222,9 +222,9 @@ footer {
   padding: 0 4px;
 }
 
-/* Create four equal columns that sits next to each other */
+/* equal columns that sits next to each other */
 .column {
-  flex: 25%;
+  flex: 50%;
   padding: 0 4px;
 }
 
