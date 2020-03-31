@@ -42,29 +42,15 @@ h4 {
     margin: 0;
 }
 
-.uppercase {
-    text-transform: uppercase;
-}
-
-.general-sub {
-    font-family: "Exo", sans-serif;
-    font-weight: 300;
-    color: #fafafa;
-}
-
 .inline-block {
     display: inline-block;
 }
 
-.row-table {
-    display: table;
-}
 
 .section-heading {
     font-family: "Exo", sans-serif;
-    font-weight: 300;
-    margin-top: 25px;
-    margin-bottom: 40px;
+    font-weight: 400;
+    margin: 30px;
 }
 /*--------------------------------------------Heading*/
 
@@ -78,20 +64,24 @@ header {
 
 .name {
     font-family: "Exo", sans-serif;
-    font-weight: 100;
+    font-weight: 700;
     font-size: 46px;
     margin-top: 50px;
     color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
+    background: #1abc9c;
 }
 
 
 
 .title {
     font-family: "Roboto", sans-serif;
-    font-weight: 250;
+    font-weight: 300;
     font-size: 28px;
     margin-top: 20px;
-    margin-bottom: 90px;
+    margin-left: 20px;
+    margin-bottom: 100px;
     color: #ffffff;
 }
 
@@ -99,7 +89,7 @@ header {
 .menuitem {
     height: 120px;
     text-align: center;
-    padding: 0;
+    padding: 20;
 }
 
 .menuitem a {
@@ -123,8 +113,8 @@ header {
     text-align: center;
     text-transform: uppercase;
     font-size: 14px;
-    font-weight: 300;
-    letter-spacing: 2px;
+    font-weight: 400;
+    letter-spacing: 3px;
 }
 /*--------------------------------------------center audio*/
  .center {
@@ -149,79 +139,12 @@ footer {
 }
 
 
-.social-links {
-    padding-bottom: 15px;
-}
-
-.social-links li a i {
-    width: 32px;
-    height: 32px;
-    padding: 12px 0;
-    border-radius: 50%;
-    font-size: 13px;
-    line-height: 7px;
-    text-align: center;
-    color: #fafafa;
-    background: #8f8f8f;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-}
-
-.social-links li a i:hover {
-    background: #e84610;
-}
 
 #footer-details {
     margin: 20px;
 }
-
-/*--------------------------------------------Three Reasons*/
-
-.three-reasons-icons {
-    font-size: 26px;
-    color: #e67e22
-}
-
-.three-reasons-heading {
-    margin-bottom: 15px;
-}
-
-/*--------------------------------------------Rockband Info*/
-
-.rockband-info-item {
-    margin-bottom: 20px;
-    display: block;
-    clear: both;
-}
-
-.rockband-info-item .key,
-.rockband-info-item .value {
-    padding-right: 8px;
-}
-
-.rockband-info-item .key p,
-.rockband-info-item .value p {
-    margin: 0;
-}
-
-.rockband-info-item .key {
-    display: inline-block;
-    width: 30%;
-    margin-right: 21px;
-    padding-top: 2px;
-    vertical-align: top;
-}
-
-.rockband-info-item .key p {
-    font-weight: 700;
-}
-
-.rockband-info-item .value {
-    display: inline-block;
-    position: relative;
-    width: 60%;
+.social-links {
+    padding-bottom: 15px;
 }
 
 /*--------------------------------------------Photos*/
@@ -269,7 +192,7 @@ button[type="submit"] {
 @media(min-width: 992px) {
     .section-column {
         padding:30px;
-        float:float;
+        float: none;
         display: inline-block;
     }
 
