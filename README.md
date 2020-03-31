@@ -79,6 +79,11 @@ The website responds to all different devices. Chrome developer tools and explor
 
 The site was created using the google chrome browser but it was however found to be working efficient in the explorer browser. Videos could be easily expanded to fill the whole screen in explorer.
 
+This is the view of the website in small screens such as a cellphones
+![small screens](https://github.com/lubaninondo/project1/blob/master/assets/images/smallscreens.png)
+
+and in laptops ![laptops](https://github.com/lubaninondo/project1/blob/master/assets/images/explorer.png)
+
 
 ### HTML and CSS Validity
 
