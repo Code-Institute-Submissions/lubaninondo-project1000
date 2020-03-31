@@ -120,12 +120,8 @@ header {
   margin-right: auto;
   width: 50%;
 }
-/*--------------------------------------------video*/
-.video {
-    width: 100%;
-    display:block; 
-    margin:0 auto;
-}
+
+
 /*--------------------------------------------Hover.css*/
 
 .hvr-sweep-to-bottom:before {
