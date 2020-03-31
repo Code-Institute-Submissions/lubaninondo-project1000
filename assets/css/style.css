@@ -37,8 +37,8 @@ body {
 
 h1,
 h2,
-h3,
-h4 {
+h3
+{
     margin: 0;
 }
 
@@ -65,10 +65,9 @@ header {
 .name {
     font-family: "Exo", sans-serif;
     font-weight: 700;
-    font-size: 46px;
+    font-size: 50px;
     margin-top: 50px;
     color: #ffffff;
-    text-transform: uppercase;
     text-align: center;
     background: #1abc9c;
 }
@@ -85,16 +84,15 @@ header {
     color: #ffffff;
 }
 
-
+/*--------------------------------------------Menu*/
 .menuitem {
     height: 120px;
     text-align: center;
-    padding: 20;
+    padding: 20px;
 }
 
 .menuitem a {
     width: 100%;
-    text-decoration: none;
     color: #ffffff;
     height: 120px;
 }
@@ -111,7 +109,6 @@ header {
     width: 100%;
     padding-top: 5px;
     text-align: center;
-    text-transform: uppercase;
     font-size: 14px;
     font-weight: 400;
     letter-spacing: 3px;
@@ -135,15 +132,16 @@ footer {
     background-color: #525252;
     color: #fafafa;
     min-height: 120px;
-    margin: 0;
+    margin-top: 40px;
+    margin-bottom: 0px;
 }
 
 
-
-#footer-details {
-    margin: 20px;
 }
 .social-links {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding-top: 20px;
     padding-bottom: 15px;
 }
 
@@ -164,7 +162,7 @@ footer {
   margin-top: 8px;
   vertical-align: middle;
 }
-/*--------------------------------------------Contact*/
+/*--------------------------------------------Contacts*/
 
 .contact-heading {
     font-family: "Exo", sans-serif;
@@ -181,9 +179,9 @@ footer {
 }
 
 button[type="submit"] {
-    margin-top: 15px;
+    margin-top: 20px;
     margin-bottom: 20px;
-    background-color: #e84610;
+    background-color: #ff0066;
     color: #fafafa;
 }
 
@@ -197,9 +195,9 @@ button[type="submit"] {
     }
 
     .center-form {
-        padding-top: 30px;
+        padding-top: 25px;
         min-height: 240px;
         margin: 0 auto;
-        max-width: 70%;
+        max-width: 80%;
     }
 }
