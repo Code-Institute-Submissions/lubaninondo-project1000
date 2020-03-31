@@ -95,11 +95,16 @@ The website has been deployed to [Github](https://github.com/lubaninondo/project
 
 ### To deploy:
 
-project was repository was created
+project was repository was created in Github
+
 Go to the directory and do the following commands:
+
 git init
+
 git add .
+
 git commit -m 'name of your what you are commiting'
+
 git push origin master
 
 ### To create a website:
