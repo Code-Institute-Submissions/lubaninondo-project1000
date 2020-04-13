@@ -85,50 +85,15 @@ header {
     color: #ffffff;
 }
 
-/*--------------------------------------------Menu*/
-.menuitem {
-    height: 120px;
-    text-align: center;
-    padding: 20px;
-}
 
-.menuitem a {
-    width: 100%;
-    color: #ffffff;
-    height: 120px;
-}
-
-.menuitem a i {
-    padding-top: 22px;
-    display: block;
-    color: #ffffff;
-    font-size: 28px;
-}
-
-.menuitem span {
-    display: block;
-    width: 100%;
-    padding-top: 5px;
-    text-align: center;
-    font-size: 14px;
-    font-weight: 400;
-    letter-spacing: 3px;
-}
 /*--------------------------------------------center audio*/
  .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 80%;
 }
 
-
-/*--------------------------------------------Hover.css*/
-
-.hvr-sweep-to-bottom:before {
-    background: rgba(0, 0, 0, 0.2);
-    height: 120px;
-}
 
 /*--------------------------------------------Footer*/
 footer {
@@ -153,6 +118,7 @@ footer {
   display: flex;
   flex-wrap: wrap;
   padding: 0 4px;
+  margin: 20px;
 }
 
 /* Create four equal columns that sits next to each other */
@@ -203,4 +169,5 @@ button[type="submit"] {
         margin: 0 auto;
         max-width: 80%;
     }
+
 }

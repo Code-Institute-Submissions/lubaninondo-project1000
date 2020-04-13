@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type="text/css" />
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css" type="text/css" />
 	<link rel="stylesheet" href="assets/css/style.css" type="text/css" />
 	<meta name ="viewport" content = "width=device-width, initial-scale-1">
@@ -12,42 +13,38 @@
 </head>
 
 <body>
- <header class = "container-fluid">
-        <div class = "row bg-color-name-title">
-            		<div class = "heading">
-            			<h1 class= "name">The Monkees</h1>
-            		</div>
-        </div>
-        <div class= "container-fluid">
-            		<ul id= "nav" class= "list-inline clearfix " >
-            			<li class= "col-md-2 col-md-offset-1 col-xs-6 ui-menu-color-home menuitem">
-            				<a href="index.html" class = "hvr-sweep-to-bottom"><i class= "fa fa-home"></i><span>Home</span></a>
-            			</li>
-            			<li class= "col-md-2 col-xs-6 ui-menu-color-photos menuitem">
-            				<a href="photos.html" class = "hvr-sweep-to-bottom"><i class="fa fa-picture-o"></i><span>Photos</span></a>
-            			</li>
-            			<li class= "col-md-2 col-xs-6 ui-menu-color-videos menuitem">
-            				<a href="videos.html" class = "hvr-sweep-to-bottom"><i class="fa fa-video-camera"></i><span>Videos</span></a>
-            			</li>
-            			<li class= "col-md-2 col-xs-6 ui-menu-color-audios menuitem">
-            				<a href="audios.html" class = "hvr-sweep-to-bottom"><i class="fa fa-music"></i><span>Audios</span></a>
-            			</li>
-            				<li class= "col-md-2 col-xs-6 ui-menu-color-contact menuitem">
-            				<a href="contacts.html" class = "hvr-sweep-to-bottom"><i class= "fa fa-commenting-o" ></i><span>Contacts</span></a>
-            			</li>
-               		</ul>
-           
-        </div>
-	</header>
+ <header>
+        <nav>
+            <div class="nav-wrapper">
+                <a href="index.html" class="brand-logo">The.Monkees</a>
+                <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+                <ul id="nav-mobile" class="right hide-on-med-and-down">
+                    <li class=  "ui-menu-color-home menuitem"><a href="index.html">Home</a></li>
+                    <li class= "ui-menu-color-photos menuitem"><a href="photos.html">Photos</a></li> 
+                    <li class= "ui-menu-color-videos menuitem"><a href="videos.html">Videos</a></li>
+                    <li class= "ui-menu-color-audios menuitem"><a href="audios.html">Audios</a></li>
+                    <li class= "ui-menu-color-contact menuitem"><a href="contacts.html">Contact Us</a></li>    
+                </ul>
+                <ul class="side-nav" id="mobile-demo">
+                     <li><a href="index.html">Home</a></li>
+                    <li><a href="photos.html">Photos</a></li> 
+                    <li><a href="videos.html">Videos</a></li>
+                    <li><a href="audios.html">Audios</a></li>
+                    <li><a href="contacts.html">Contact Us</a></li> 
+                </ul>
+            </div>
+        </nav>
+    </header>
+
 <section class = "container-fluid">
 <div class = "row">
     <img src="assets/images/cover2.png" alt="Cover2" style="width:100%" height="240">
 </div>
 <h3>Band Info</h3>
 		
-				<div>The Monkees are an American rock and pop band originally active between 1966 and 1971, with reunion albums and tours in the decades that followed. Their original line-up consisted of the American actor/musicians Micky Dolenz, Michael Nesmith, and Peter Tork with English actor/singer Davy Jones. The group was conceived in 1965 by television producers Bob Rafelson and Bert Schneider specifically for the situation comedy series The Monkees, which aired from 1966 to 1968. The band's music was initially supervised by record producer Don Kirshner, backed by the songwriting duo of Tommy Boyce and Bobby Hart.
-
-The four actor/musicians were initially allowed only limited roles in the recording studio for the first few months of their five-year career as "the Monkees". This was due in part to the amount of time required to film the television series. Nonetheless, Nesmith composed and produced some songs from the beginning, and Tork contributed limited guitar work on the sessions produced by Nesmith. All four contributed lead vocals to various tracks. They eventually fought for the right to collectively supervise all musical output under the band's name, acting as musicians, singers, songwriters, and producers.</div>
+<div>The Monkees are an American rock and pop band originally active between 1966 and 1971, with reunion albums and tours in the decades that followed. Their original line-up consisted of the American actor/musicians Micky Dolenz, Michael Nesmith, and Peter Tork with English actor/singer Davy Jones. The group was conceived in 1965 by television producers Bob Rafelson and Bert Schneider specifically for the situation comedy series The Monkees, which aired from 1966 to 1968. 
+   The group has been rocking the world since then. Just browse the website and take a sample view  of what we have been doing for over the years     
+</div>
 		
 </section>
 <footer class= "container-fluid">
@@ -61,7 +58,7 @@ The four actor/musicians were initially allowed only limited roles in the record
 		</div>
 	
 		<div class= "col-sm-4">
-		<h1>My Social</h1>
+		<h1>Social Media</h1>
 		<ul class ="list-inline social-links">
 			<li><a target ="_blank" href ="#"><i class="fa fa-facebook"></i></a></li>
 			<li><a target ="_blank" href ="#"><i class="fa fa-twitter"></i></a></li>
