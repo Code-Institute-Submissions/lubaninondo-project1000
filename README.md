@@ -114,11 +114,17 @@ The navigation in the large screens was in a navigation bar and in small screen 
 The site was created using the google chrome browser but it was however found to be working efficient in the explorer browser. Videos could be easily expanded to fill the whole screen in explorer.
 
 This is the view of the website in small screens such as a cellphones
+
+Photos
 ![small screens photos](https://github.com/lubaninondo/project1/blob/master/assets/images/smallscreen.png) and
+
+Menu
 ![small screens menu items](https://github.com/lubaninondo/project1/blob/master/assets/images/smallscreenmenu.png)
 
 
-and in laptops ![laptops](https://github.com/lubaninondo/project1/blob/master/assets/images/largescreen.png)
+and in laptops/ large screens
+
+![laptops](https://github.com/lubaninondo/project1/blob/master/assets/images/largescreen.png)
 
 
 ### HTML and CSS Validity
